@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.filenet.api.core.Factory.Realm"/>
-<fullyQualifiedTypeName name="com.filenet.api.collection.UserSet"/>
-<fullyQualifiedTypeName name="com.filenet.api.constants.PrincipalSearchType"/>
-<fullyQualifiedTypeName name="com.filenet.api.constants.PrincipalSearchAttribute"/>
-<fullyQualifiedTypeName name="com.filenet.api.constants.PrincipalSearchSortType"/>
-<fullyQualifiedTypeName name="com.filenet.api.security.Realm"/>
-</qualifiedTypeNameHistroy>
