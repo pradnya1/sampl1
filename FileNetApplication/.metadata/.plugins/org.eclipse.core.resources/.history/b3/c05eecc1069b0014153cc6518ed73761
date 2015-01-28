@@ -1,0 +1,14 @@
+package p8.sample.cews;
+
+import java.util.Iterator;
+import javax.security.auth.Subject;
+import com.filenet.api.collection.ObjectStoreSet;
+import com.filenet.api.core.Connection;
+import com.filenet.api.core.Domain;
+import com.filenet.api.core.Factory;
+import com.filenet.api.core.ObjectStore;
+import com.filenet.api.util.UserContext;
+
+public class P8Connector {
+
+}

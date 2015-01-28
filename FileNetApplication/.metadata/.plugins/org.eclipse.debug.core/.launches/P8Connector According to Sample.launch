@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/P8ApiSample/src/p8/sample/cews/P8Connector.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.jdt.launching.ATTR_USE_START_ON_FIRST_THREAD" value="true"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="p8.sample.cews.P8Connector"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="P8ApiSample"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Djava.security.auth.login.config=&quot;c:\Program Files\IBM\FileNet\CEClient\config\samples\jaas.conf.WSI&quot;"/>
+</launchConfiguration>
